@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="regression testing">
+  <test name="run all">
+    <classes>
+      <class name="Googletests">
+      </class> <!-- Googlenews -->
+      <class name="Googlevideos">
+      </class>
+      <class name="Googlenews">
+      </class>
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
+ 
